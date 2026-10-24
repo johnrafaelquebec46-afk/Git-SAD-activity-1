@@ -1,0 +1,1 @@
+This is John Rafael Quebec and this is my first repository for Activity 1 of CI/CD
